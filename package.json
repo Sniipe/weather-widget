@@ -1,5 +1,5 @@
 {
-    "name":"angular2-skeleton",
+    "name":"weather-widget",
     "version": "1.0.0",
     "description" : "Rory's Angular2 Skeleton 2 project",
     "scripts": {
