@@ -2,4 +2,5 @@
 /app/*.js
 /app/*.js.map
 *.log
-readme
+readmenpm
+constants.ts
